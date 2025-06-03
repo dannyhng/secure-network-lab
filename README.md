@@ -1,7 +1,7 @@
 # 🔐 Secure Network Infrastructure Lab
 
 A simulated secure network environment designed in Cisco Packet Tracer to demonstrate core principles of network segmentation, access control, NAT, VPN, and basic threat detection.
-
+![Network Topology](topology_diagram.png)
 ## 🧱 Network Topology
 
 - 3 VLANs: Admin, Staff, Guest
